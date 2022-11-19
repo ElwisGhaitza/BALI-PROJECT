@@ -255,8 +255,8 @@ img {
   width: 100%;
   min-width: 110px;
   height: 0;
-  padding-bottom: 57.7%;
-  margin: 30% 0 0;
+  padding-bottom: 57%;
+  margin: 40% 0 0;
   background: #fff;
   position: absolute;
   color: #00ACE9;
@@ -314,6 +314,7 @@ img {
   display: table-cell;
   vertical-align: middle;
   text-align: center;
+  
 } 
 
 /* main Hexa */ 
@@ -321,7 +322,7 @@ img {
   width: 100%;
   min-width: 120px;
   height: 0;
-  padding-bottom: 57.7%;
+  padding-bottom: 57%;
   margin: 30% 0 0;
   background: #0094D3;
   position: absolute;
